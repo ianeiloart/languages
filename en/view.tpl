@@ -1,5 +1,4 @@
 
-
           <p>
 
 Start a <a href="/en/search.html" title="Search again">new Search</a>.
@@ -14,7 +13,7 @@ Your Result to the Request {$searching}: &gt;&gt;<strong><u>{$request}</u></stro
 
 <br /><br />
 <strong style="color: blue">
-We show only Data there was not older than 14 Days!
+We show only Data that is not older than 14 Days!
 </strong>
 <br />
 {$blaetter}
@@ -102,7 +101,7 @@ We show only Data there was not older than 14 Days!
 
 </p>
 <strong style="color: blue">
-We show only Data there was not older than 14 Days!
+We show only Data that is not older than 14 Days!
 </strong>
 <br />
 <br />
